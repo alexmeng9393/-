@@ -1,0 +1,6 @@
+x=float(input())
+y=float(input())
+a=('%.2f' % x)
+b=('%.2f' % y)
+c=('%.2f' % float(x+y))
+print(a,"+",b,"=",c)

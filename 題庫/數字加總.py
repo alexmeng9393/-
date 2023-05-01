@@ -1,0 +1,6 @@
+a=float(input())
+b=float(input())
+c=float(round(a+b,2))
+d=float(round(a,2))
+e=float(round(b,2))
+print(d,"+",e,"=",c )
